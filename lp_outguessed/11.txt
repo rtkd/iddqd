@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+Create one Tor hidden service that can accept CGI file uploads.
+
+When this hidden service returns and can accept input, post the 
+three magic squares and the URL to your Tor hidden service here.
+
+Work alone.
+
+
+3333333333333333
+310    12    103
+3              3
+312    14    123
+3              3
+310    12    103
+3333333333333333
+
+
+Good luck.
+
+3301
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJS24E+AAoJEBgfAeV6NQkPliIQAIKI2NrekF7zK5/2Fhao/9KB
+hz5eIIfD/IJuz63NsxWrDa1sUOmXkGCcHLssX052Sves7q70XVv+qEK87Q2691Bj
+fHCUvkc5doWqAmi4MRe4FnAdFjhugK7W1f+FP8+rY9275we571Ba+HbIsBTLYez7
+AcLm3jGEnnFG16L6QSz+AOdZgWcoND6U3U8Hso+QUS/shDiq1Anc03V27p5IhxQr
+DxEJoso0hozAMpKCJjFjC6CsciDuEO2zDZYrcoFCm5KhWbYyGh5fn7bWAjn/5qoI
+fsQJdlctY3BLOQzkwVo+70bZYfjx3A/+zlx2+dW5VjKUOBqk5I85OYe/JNDvvzjv
+nCpxUWoz7u3hzc/rkfNazWix2fqbbKp8CJAP6YwRuWOyMzo0TlLQ0ypxaAMj7R2P
+Ekr4XG2mNdC694z+WVFiXNFMXaGdLzLqoO1ASJI+o5qqJ4FgmCrJwUA4LOlWAte5
+wU45fXiHZ4pYWnlHg+9DbKGxt5whhNFHbWmH8X45PBsAcugkHXKg60AzEZZg0qte
++rFofXLxD3OVTdw+ho0Qu8EnHbbYa5dM+Iv0FXPfANwuQRKzJfMRWY+aBKcoZaub
+jpvSti7zBE206L10Gy/ZkqYaOCCoAwO/9P15L0gRBGzSjWvNmNGMzxy+6541aCHu
+JKQ6RQ9NbHJA6rxCX6UV
+=XIyP
+-----END PGP SIGNATURE-----
