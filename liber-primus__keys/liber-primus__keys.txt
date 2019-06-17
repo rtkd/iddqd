@@ -1,15 +1,35 @@
 + 0.0	Substitution. Invert Gematria.
 
-+ 0.1	Polyalphabetic Substitution. Clear text F is not encrypted. Key: divinity (6,19,28,19,20,19,13,3 / 23,10,1,10,9,10,16,26)
++ 0.1	Polyalphabetic Substitution. Clear text F is not encrypted. Key: divinity (23,10,1,10,9,10,16,26)
 
-+ 0.2	Substitution. Invert Gematria. Key: 3
++ 0.2	Substitution.
 
-+ 0.3	Substitution.
++ 0.3	Substitution. Invert Gematria. Key: 3
 
-+ 0.4	Polyalphabetic Substitution. Clear text F is not encrypted. Key: firfumferenfe (0,19,25,0,28,10,0,11,25,11,20,0,11,0 /0,10,4,0,1,19,0,18,4,18,9,0,18)
++ 0.4	Substitution.
 
-...
++ 0.5	Polyalphabetic Substitution. Clear text F is not encrypted. Key: firfumferenfe (0,10,4,0,1,19,0,18,4,18,9,0,18)
 
-+ 0.13	Polyalphabetic Substitution. Clear text F is not encrypted. Key: f(n)=phi(prime[n]) where n = stream of prime numbers.
++ 0.6	Substitution.
 
-+ 0.14	Substitution.
++ 0.7	-
+
++ 0.8	-
+
++ 0.9	-
+
++ 0.10	-
+
++ 0.11	-
+
++ 0.12	-
+
++ 0.13	-
+
++ 0.14	-
+
++ 0.15	-
+
++ 0.16	Polyalphabetic Substitution. Clear text F is not encrypted. Key: f(n)=phi(n) where n = stream of prime numbers.
+
++ 0.17	Substitution.
